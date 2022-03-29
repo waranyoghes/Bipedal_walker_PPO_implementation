@@ -5,7 +5,7 @@
 ![123](https://user-images.githubusercontent.com/73269696/160667130-f9142c5d-f244-43c5-ac1e-a55f1ef706fd.PNG)
 
 #### Paper links: 
-#### TRPO https://arxiv.org/abs/1502.05477
-#### PPO  https://arxiv.org/abs/1707.06347  
+TRPO: https://arxiv.org/abs/1502.05477
+PPO:  https://arxiv.org/abs/1707.06347  
 
 
