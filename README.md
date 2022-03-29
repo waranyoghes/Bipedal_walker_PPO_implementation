@@ -5,10 +5,10 @@
 ![123](https://user-images.githubusercontent.com/73269696/160667130-f9142c5d-f244-43c5-ac1e-a55f1ef706fd.PNG)
 
 ##### Paper links: 
-TRPO: https://arxiv.org/abs/1502.05477  
-PPO:  https://arxiv.org/abs/1707.06347  
-Sutton and Barto Book(chapter 13): http://incompleteideas.net/book/the-book.html  
-Policy Gradient (finite and infinite horizon proofs): https://ieor8100.github.io/rl/docs/Lecture%205%20-%20policy%20gradients.pdf  
-Deep Mind lecture Notes: https://www.davidsilver.uk/wp-content/uploads/2020/03/pg.pdf
+* TRPO: https://arxiv.org/abs/1502.05477  
+* PPO:  https://arxiv.org/abs/1707.06347  
+* Sutton and Barto Book(chapter 13): http://incompleteideas.net/book/the-book.html  
+* Policy Gradient (finite and infinite horizon proofs): https://ieor8100.github.io/rl/docs/Lecture%205%20-%20policy%20gradients.pdf  
+* Deep Mind lecture Notes: https://www.davidsilver.uk/wp-content/uploads/2020/03/pg.pdf
 
 
